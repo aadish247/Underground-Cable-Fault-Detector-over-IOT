@@ -8,10 +8,8 @@ and current sensors in an automatic fault location system. The system can detect
 both single-phase faults and multi-phase faults. Fault location in protective relays has been
 available for over 20 years. These relays use impedance-based fault location algorithms,
 typically from one terminal of the transmission line. The field case shows that the fault
-
 location estimation is off by 475 feet in a 25Km composite line application. Impedance-
 based algorithms are dependent on the system loading during the fault period, because one
-
 of the required inputs is the load in each node of the system. Thus, due to the abnormal
 behaviors of load variations it may be very difficult to estimate the correct load data to be
 used in the algorithm. The data gathered in the specialized literature; the software PROTEUS
